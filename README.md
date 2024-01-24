@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
 <img align="center" alt="coding" width="300" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsha3406" alt="utkarsha3406" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsha3406&theme=onedark" alt="utkarsha3406" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
