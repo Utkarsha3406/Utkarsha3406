@@ -4,10 +4,6 @@
 <!--
 **Utkarsha3406/Utkarsha3406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<img align="center" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsha3406" alt="utkarsha3406" /></a> </p>
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,15 +17,15 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
 <img align="center" alt="coding" width="300" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsha3406" alt="utkarsha3406" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsha3406&theme=onedark" alt="utkarsha3406" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utkarsha chore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsha chore" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/istknth_166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="istknth_166" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/up34061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="up34061" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utkarsha_1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsha_1410" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/istknth_166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="istknth_166" height="30" width="40" style="border: 3px solid red" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
